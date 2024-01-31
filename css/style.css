@@ -159,4 +159,27 @@ img {
         padding-bottom: 2.5rem;
     }
 
+    .why-us {
+        background-color: #222222;
+    }
+
+    .why-us .row {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .why-us .col-left {
+        width: 100%;
+        padding-bottom: 2rem;
+    }
+
+    .why-us .col-right {
+        width: 100%;
+    }
+
+    .steps,
+    .why-us {
+        margin-bottom: 0;
+        padding: 2.5rem 0;
+    }
 }
