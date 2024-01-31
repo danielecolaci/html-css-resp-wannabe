@@ -148,4 +148,15 @@ img {
         width: 100%;
         padding-bottom: 2.5rem;
     }
+
+    .steps .row {
+        flex-direction: column;
+        align-content: center;
+    }
+
+    .steps .col {
+        width: 100%;
+        padding-bottom: 2.5rem;
+    }
+
 }
